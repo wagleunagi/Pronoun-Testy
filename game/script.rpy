@@ -11,6 +11,8 @@ default Name = "Isaac"
 
 default Pron = None
 
+#I like people.
+
 default SubjectPron = None
 default ObjectPron = None
 default PossessiveAdj = None
